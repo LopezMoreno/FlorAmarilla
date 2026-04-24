@@ -1,0 +1,1 @@
+GitHub es una plataforma basada en la nube que permite gestionar proyectos de software utilizando Git, un sistema de control de versiones. Es ideal para colaborar en equipo, rastrear cambios y alojar proyectos de código abierto o privados.

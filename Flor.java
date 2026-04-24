@@ -21,5 +21,6 @@ public class Flor extends JPanel {
         frame.add(new Flor());
         frame.setVisible(true);
     }
+    //Mejorado
     
 }
